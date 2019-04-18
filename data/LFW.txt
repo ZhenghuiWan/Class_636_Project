@@ -1,0 +1,14 @@
+# Link to the data
+
+http://vis-www.cs.umass.edu/lfw/
+
+
+# Commit
+
+Due to the huge size of datasset, I attached the link where I downloaded and used.
+
+The Dataset we used for this task is Labeled Faces in the Wild Home, a labeled database of face photographs designed for 
+studying the problem of unconstrained face recognition. The data set contains more than 13,000 images of faces collected 
+from the web. Each face has been labeled with the name of the person pictured. At 5749 unique identities (and each identity 
+may have one or more images) images, this dataset is really good for training.
+
