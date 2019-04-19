@@ -22,14 +22,14 @@ Deep into my task, it mainly involves two part: recognize where is a face and de
 ```
 python catchpic.py
 ```
-The camera will started collect data. Then output [a bunch of unknown face](https://github.com/ZhenghuiWan/Class_636_Project/tree/master/data/zhenghui). I labeled it as my name help training.
+**The camera will started collect data. Then output [a bunch of unknown face](https://github.com/ZhenghuiWan/Class_636_Project/tree/master/data/zhenghui). I labeled it as my name help training.**
 
 ## Train model
 :running:Run:
 ```
 python face_train.py
 ```
-Load dataset from the the folder [data](/data)
+**Load dataset from the the folder [data](/data)**
 
 Model Result
 
