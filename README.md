@@ -4,21 +4,21 @@
 
 For the recent years, person identification/detection, as a branch of Objection Detection, became a heated issue. It contains many parts of topics, such as face recognition, human pose estimation, human segmentation ect. My project mainly focused on face detection of that part.
 
-Deep into my task, it mainly involves two part: recognize where is a face and detect who is the face. While lots of great open sources reached a high performance, I get relative precise range of human face with the help of OpenCV, an mature open resource. The model was mainly built for recognize people who is it. Building my own model, I also want to do something on my own. Finally, I decided to build my personal face detection system.
+Deep into my task, it mainly involves two part: recognize where is a face and detect who is the face. While lots of great open sources reached a high performance, I get relative precise range of human face with the help of OpenCV, an mature open resource. The model was mainly built for recognize people who is it. Building my own model, I also want to do something on my own. Finally, I decided to build **my personal face detection system**.
 
 # Getting Started
 
 ## Prerequisites
-- [ ] Python 3
-- [ ]	Tensorflow
-- [ ]	Keras
-- [ ]	sys
-- [ ]	Cv2
-- [ ]	Numpy
-- [ ]	Tkinter
+- [x] Python 3
+- [x]	Tensorflow
+- [x]	Keras
+- [x]	sys
+- [x]	Cv2
+- [x]	Numpy
+- [x]	Tkinter
 
 ## Collect Dataset
-:running:Run
+:running:Run:
 ```
 python catchpic.py
 ```
@@ -96,6 +96,8 @@ python GUI.py
 :star: See the GUI demo video [here](https://youtu.be/D9BKKvXw6rI)
 
 # Finished!
+Finished build a neural network form build the environment, collect dataset, training, testing and build visualized GUI. Each step was a big challenge for a new learner. Practice is the sole criterion for testing truth. Thanks to the real exprience, complicated theoritical become more and more clear. Then, still keep learning.:punch:
+
 Thank you Professor [Anxiao Jiang](http://faculty.cse.tamu.edu/ajiang/) who has a significant guide towards my project! 
 
 Thank you TA and grader's great effort during the semester!
