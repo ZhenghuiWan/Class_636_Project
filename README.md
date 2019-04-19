@@ -1,6 +1,6 @@
 # Class_636_Project
 
-:smile: Welcome to my person dectecion project.
+:smile: Welcome to my *Person Dectecion* project.
 
 For the recent years, person identification/detection, as a branch of Objection Detection, became a heated issue. It contains many parts of topics, such as face recognition, human pose estimation, human segmentation ect. My project mainly focused on face detection of that part.
 
@@ -69,8 +69,8 @@ Epoch 10/10
 12321 valid samples
 20534 test samples*
 
-*Testing:*
-*20534/20534 [==============================] - 71s 3ms/step
+*Testing:
+20534/20534 [==============================] - 71s 3ms/step
 acc: 96.57% *
 
 
@@ -92,4 +92,5 @@ python GUI.py
 
 # Finished!
 Thank you Professor [Anxiao Jiang](http://faculty.cse.tamu.edu/ajiang/) who has a significant guide towards my project! 
-Thank you TA and grader's great effort!
+
+Thank you TA and grader's great effort during the semester!
