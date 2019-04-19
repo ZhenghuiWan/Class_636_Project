@@ -1,6 +1,6 @@
 # Class_636_Project
 
-:smile: Welcome to my *Person Dectecion* project.
+:smile: Welcome to my **Person Dectecion** project.
 
 For the recent years, person identification/detection, as a branch of Objection Detection, became a heated issue. It contains many parts of topics, such as face recognition, human pose estimation, human segmentation ect. My project mainly focused on face detection of that part.
 
