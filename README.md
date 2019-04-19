@@ -33,9 +33,9 @@ Load dataset from the the folder [data](/data)
 
 Model Result
 
-*Training:
+*Training:*
 
-Epoch 1/10
+*Epoch 1/10
 958/958 [==============================] - 208s 217ms/step - loss: 0.5552 - acc: 0.9234 - val_loss: 0.5592 - val_acc: 0.9243*
 
 *Epoch 2/10
@@ -69,8 +69,8 @@ Epoch 10/10
 12321 valid samples
 20534 test samples*
 
-*Testing:
-20534/20534 [==============================] - 71s 3ms/step
+*Testing:*
+*20534/20534 [==============================] - 71s 3ms/step
 acc: 96.57% *
 
 
@@ -79,6 +79,7 @@ acc: 96.57% *
 ```
 python reid.py
 ```
+
 ![Output](Output/1.jpg)
 ![Output](Output/2.jpg)
 ## GUI
@@ -88,3 +89,7 @@ cd GUI
 python GUI.py
 ```
 :star: See the GUI demo [here](https://youtu.be/D9BKKvXw6rI)
+
+# Finished!
+Thank you Professor [Anxiao Jiang](http://faculty.cse.tamu.edu/ajiang/) who has a significant guide towards my project! 
+Thank you TA and grader's great effort!
