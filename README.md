@@ -87,7 +87,7 @@ python reid.py
 
 ![Output](Output/1.jpg)
 ![Output](Output/2.jpg)
-## Our model successfully recognized my face!**
+**Our model successfully recognized my face!**
 
 ## GUI
 :running: Run:
