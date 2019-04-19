@@ -68,9 +68,9 @@ python face_train.py
 958/958 [==============================] - 209s 218ms/step - loss: 0.1652 - acc: 0.9675 - val_loss: 0.1692 - val_acc: 0.9563*
 
 Epoch 10/10
-958/958 [==============================] - 206s 215ms/step - loss: 0.1521 - acc: 0.9672 - val_loss: 0.1592 - val_acc: 0.9651*
+958/958 [==============================] - 206s 215ms/step - loss: 0.1521 - acc: 0.9672 - val_loss: 0.1592 - val_acc: 0.9651
 
-*28746 train samples
+28746 train samples
 12321 valid samples
 20534 test samples
 
@@ -87,6 +87,8 @@ python reid.py
 
 ![Output](Output/1.jpg)
 ![Output](Output/2.jpg)
+## Our model successfully recognized my face!**
+
 ## GUI
 :running: Run:
 ```
