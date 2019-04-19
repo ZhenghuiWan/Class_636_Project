@@ -9,13 +9,13 @@ Deep into my task, it mainly involves two part: recognize where is a face and de
 # Getting Started
 
 ## Prerequisites
-- Python 3
--	Tensorflow
--	Keras
--	sys
--	Cv2
--	Numpy
--	Tkinter
+- [ ] Python 3
+- [ ]	Tensorflow
+- [ ]	Keras
+- [ ]	sys
+- [ ]	Cv2
+- [ ]	Numpy
+- [ ]	Tkinter
 
 ## Collect Dataset
 :running:Run
@@ -30,10 +30,15 @@ python catchpic.py
 python face_train.py
 ```
 **Load dataset from the the folder [data](/data)**
+### Model Structure
+- The training data shape was (28746, 64, 64, 3)
+- The validation data shape was (12321, 64, 64, 3)
+- The test data shape was (20534, 64, 64, 3)
 
-Model Result
 
-*Training:*
+### Model Result
+
+- *Training:*
 
 *Epoch 1/10
 958/958 [==============================] - 208s 217ms/step - loss: 0.5552 - acc: 0.9234 - val_loss: 0.5592 - val_acc: 0.9243*
@@ -67,9 +72,9 @@ Epoch 10/10
 
 *28746 train samples
 12321 valid samples
-20534 test samples*
+20534 test samples
 
-*Testing:
+- Testing:
 20534/20534 [==============================] - 71s 3ms/step
 acc: 96.57% *
 
@@ -88,7 +93,7 @@ python reid.py
 cd GUI
 python GUI.py
 ```
-:star: See the GUI demo [here](https://youtu.be/D9BKKvXw6rI)
+:star: See the GUI demo video [here](https://youtu.be/D9BKKvXw6rI)
 
 # Finished!
 Thank you Professor [Anxiao Jiang](http://faculty.cse.tamu.edu/ajiang/) who has a significant guide towards my project! 
